@@ -69,3 +69,9 @@ criaCartao(
     'Sevika',
     'Viva'
 )
+
+criaCartao(
+    'Lingua inglesa',
+    'Maddie',
+    'Morta (MERECIDO TALARICA MOCRÉIA!!!!)'
+)
